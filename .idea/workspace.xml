@@ -2,51 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1268a450-75b9-4700-acaa-0bf74c9b537c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ekanban" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redmine_backlogs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redmine_issue_sla_31_10_2014.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redmine_timelog_importer_after_Ram_issues_21_10_2014.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__redmine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__redmine_work_after_build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__redmine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__redmine_work_after_build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Untitled Document" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitnami_redmine_2.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/developer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/redmine_work_after_build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__redmine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__redmine_work_after_build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__redmine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__redmine_work_after_build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/timelog_import_in_progres_temp.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/timelog_import_in_progres_temp_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/timelog_import_in_progres_temps.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/redmine.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/config/configuration.yml.example" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/database.yml.example" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/README" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/application.css" afterPath="$PROJECT_DIR$/public/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/issues/bulk_edit.html.erb" afterPath="$PROJECT_DIR$/app/views/issues/bulk_edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/context_menu.js" afterPath="$PROJECT_DIR$/public/javascripts/context_menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/projects_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/projects_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/time_entry.rb" afterPath="$PROJECT_DIR$/app/models/time_entry.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/timelog_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/timelog_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/AgileDwarf" afterPath="$PROJECT_DIR$/plugins/AgileDwarf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/clipboard_image_paste" afterPath="$PROJECT_DIR$/plugins/clipboard_image_paste" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ekanban" afterPath="$PROJECT_DIR$/ekanban" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ekanban" afterPath="$PROJECT_DIR$/plugins/ekanban" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redmine_backlogs" afterPath="$PROJECT_DIR$/redmine_backlogs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_backlogs" afterPath="$PROJECT_DIR$/plugins/redmine_backlogs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_importer" afterPath="$PROJECT_DIR$/plugins/redmine_importer" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_issue_sla" afterPath="$PROJECT_DIR$/plugins/redmine_issue_sla" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_lightbox" afterPath="$PROJECT_DIR$/plugins/redmine_lightbox" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_mention_plugin" afterPath="$PROJECT_DIR$/plugins/redmine_mention_plugin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_monitoring_controlling" afterPath="$PROJECT_DIR$/plugins/redmine_monitoring_controlling" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redmine_wktime" afterPath="$PROJECT_DIR$/plugins/redmine_wktime" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="redmine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -874,7 +845,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="24" width="1383" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961586" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2946896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -884,7 +855,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39156628" sideWeight="0.4988781" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3457249" sideWeight="0.4988781" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3457249" sideWeight="0.4988781" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900866" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
