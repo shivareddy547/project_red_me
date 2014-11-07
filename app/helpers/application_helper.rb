@@ -396,6 +396,7 @@ module ApplicationHelper
     s.html_safe
   end
 
+
   # Options for the new membership projects combo-box
   def options_for_membership_project_select(principal, projects)
     options = content_tag('option', "--- #{l(:actionview_instancetag_blank_option)} ---")

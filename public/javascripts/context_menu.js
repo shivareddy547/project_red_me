@@ -72,6 +72,7 @@ function contextMenuClick(event) {
 }
 
 function contextMenuCreate() {
+
   if ($('#context-menu').length < 1) {
     var menu = document.createElement("div");
     menu.setAttribute("id", "context-menu");

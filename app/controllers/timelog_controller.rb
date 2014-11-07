@@ -42,6 +42,10 @@ class TimelogController < ApplicationController
   include QueriesHelper
 
   def index
+
+    p "+++++++++++++++++@entries________________++++++++++++++++"
+    p @entries
+    p "+++++++++++++++++==="
     @query = TimeEntryQuery.build_from_params(params, :project => @project, :name => '_')
 
     sort_init(@query.sort_criteria.empty? ? [['spent_on', 'desc']] : @query.sort_criteria)
@@ -55,6 +59,9 @@ class TimelogController < ApplicationController
         @entry_count = scope.count
         @entry_pages = Paginator.new @entry_count, per_page_option, params['page']
         @entries = scope.offset(@entry_pages.offset).limit(@entry_pages.per_page).all
+        p "+++++++++++++++++@entries________________++++++++++++++++"
+        p @entries
+        p "+++++++++++++++++==="
         @total_hours = scope.sum(:hours).to_f
 
         render :layout => !request.xhr?

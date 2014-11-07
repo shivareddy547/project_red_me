@@ -167,6 +167,9 @@ class ProjectsController < ApplicationController
   end
 
   def settings
+    p "++++++++++++"
+    p params[:default_assignee].to_a rescue nil
+    p "+++++++++++="
     @issue_custom_fields = IssueCustomField.sorted.all
     @issue_category ||= IssueCategory.new
     @member ||= @project.members.new
